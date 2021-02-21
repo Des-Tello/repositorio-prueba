@@ -9,4 +9,21 @@ try:
 except:
     print("algo salio mal")
 '''
+SAS
+SAS
+SAS
+SAS
+StopAsyncIteration
+SAS
+SAS
 
+SOS
+
+SAS
+SAS
+SAS
+
+SAS
+
+SAS
+SOS
